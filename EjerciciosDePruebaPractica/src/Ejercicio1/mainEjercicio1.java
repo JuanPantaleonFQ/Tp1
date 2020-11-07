@@ -30,9 +30,9 @@ public class mainEjercicio1 {
 			c = new Circulo(inX, inY, inR);
 			
 			// Print info and read data
-			System.out.println("El área del " + c + " es " + c.area(inD));			
+			System.out.println("El Are del " + c + " es " + c.area(inR));			
 			System.out.print("Desplazamiento: ");			
-			inD = in.nextInt();			
+			inD = in.nextInt();		
 			
 			// Moving the circle
 			c.traslada(inD);

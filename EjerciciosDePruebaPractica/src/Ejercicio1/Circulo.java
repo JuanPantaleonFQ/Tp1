@@ -34,7 +34,7 @@ public class Circulo {
 	
 	// To string...
 	public String toString() {
-			return " círculo con centro (" + x + ", " + y + ") y radio " + radio;
+			return " Circulo con centro (" + x + ", " + y + ") y radio " + radio;
 		}
 			
 	}
