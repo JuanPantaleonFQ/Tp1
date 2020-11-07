@@ -1,3 +1,6 @@
+package Ejercicio1;
+import Ejercicio1.Circulo;
+
 import java.util.Scanner;
 
 public class mainEjercicio1 {
@@ -27,7 +30,7 @@ public class mainEjercicio1 {
 			c = new Circulo(inX, inY, inR);
 			
 			// Print info and read data
-			System.out.println("El área del " + c + " es " + c.area());			
+			System.out.println("El área del " + c + " es " + c.area(inD));			
 			System.out.print("Desplazamiento: ");			
 			inD = in.nextInt();			
 			

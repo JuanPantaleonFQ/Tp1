@@ -26,7 +26,7 @@ public class Circulo {
 		System.out.println("escribe: " + x + " " + y );
 	}
 	
-	public void Trasladar(int d) {
+	public void traslada(int d) {
 		x += d;
 				
 	}
