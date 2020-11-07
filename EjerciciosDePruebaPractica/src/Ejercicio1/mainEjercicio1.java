@@ -7,7 +7,7 @@ public class mainEjercicio1 {
 
 	public static void main(String[] args) {
 		
-		int inX, inY, inR, inD;
+		int inX, inY, inR, inD = 0;
 		Circulo c;
 		Scanner in;
 					
